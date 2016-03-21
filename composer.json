@@ -1,6 +1,6 @@
 {
     "name": "vanio/vanio-form-extra-bundle",
-    "description": "Extends Symfony forms to handle value objects",
+    "description": "A Symfony2 Bundle extending forms to handle value objects.",
     "keywords": ["symfony", "form", "value object"],
     "type": "symfony-bundle",
     "homepage": "https://github.com/vaniocz/vanio-form-extra-bundle",
